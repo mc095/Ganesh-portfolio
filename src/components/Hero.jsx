@@ -1,6 +1,9 @@
 // ./src/components/Hero.jsx
 
 import React from "react";
+import ProfileImage from "./Images/profile.gif"
+
+// https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjMzZ3N3MGdldDBiMjBpejE1NXc1Nm80Nzc4bm96dWpqbmg0d2d5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OJYmB0SL4EVu8REklW/giphy.gif
 
 const Hero = () => {
   return (
@@ -8,7 +11,7 @@ const Hero = () => {
       <header className="flex items-center gap-3 sm:gap-4 mb-8 sm:mb-12">
         <div className="w-16 sm:w-20 h-16 sm:h-20 rounded-full overflow-hidden">
           <img
-            src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjMzZ3N3MGdldDBiMjBpejE1NXc1Nm80Nzc4bm96dWpqbmg0d2d5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OJYmB0SL4EVu8REklW/giphy.gif" // Direct URL to the Giphy GIF
+            src={ProfileImage}// Direct URL to the Giphy GIF
             alt="Profile"
             className="w-full h-full object-cover"
           />
