@@ -11,7 +11,7 @@ const Hero = () => {
       <header className="flex items-center gap-3 sm:gap-4 mb-8 sm:mb-12">
         <div className="w-16 sm:w-20 h-16 sm:h-20 rounded-full overflow-hidden">
           <img
-            src={ProfileImage}// Direct URL to the Giphy GIF
+            src={ProfileImage}
             alt="Profile"
             className="w-full h-full object-cover"
           />
