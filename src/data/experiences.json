@@ -1,0 +1,19 @@
+{
+  "experiences": [
+    {
+      "date": "Jan 2024 - Mar 2024",
+      "role": "Web Developer Intern",
+      "company": "Sysbolt India",
+      "companyLink": "https://www.linkedin.com/company/sysbolt/posts/?feedView=all",
+      "description": "Worked as a Web Development Intern at Sysbolt India, focusing on CSS and JavaScript. Gained experience with CMS platforms like Shopify and WordPress. Additionally, explored serverless architecture on Azure, enhancing my understanding of cloud computing and modern web development practices.",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "Shopify",
+        "WordPress",
+        "Azure",
+        "Serverless"
+      ]
+    }
+  ]
+}
