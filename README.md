@@ -19,18 +19,3 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 - **About Me**: A section introducing myself and my skills.
 - **Contact Information**: Easy ways to get in touch with me.
 
-## Structure
-my-portfolio/
-├── public/              # Static assets
-├── src/
-│   ├── assets/          # Images, icons, and other assets
-│   ├── components/      # Reusable React components
-│   ├── pages/           # Page components (e.g., Home, About, Projects)
-│   ├── App.jsx          # Main application component
-│   └── main.jsx         # Entry point for the app
-├── .gitignore           # Files and directories to ignore in Git
-├── index.html           # Main HTML file
-├── package.json         # Project dependencies and scripts
-├── README.md            # Project documentation
-├── tailwind.config.js   # Tailwind CSS configuration
-└── vite.config.js       # Vite configuration
