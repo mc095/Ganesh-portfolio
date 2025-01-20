@@ -14,6 +14,10 @@ const Footer = () => {
       href: "https://www.linkedin.com/in/ganesh097/",
     },
     {
+      name: "Contact",
+      href: "https://wa.me/918008149866",
+    },
+    {
       name: "Spotify ✨",
       href: "https://open.spotify.com/user/31eiobsw6mvowylhyokvhodph6tu",
     },
