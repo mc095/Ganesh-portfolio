@@ -27,7 +27,7 @@ const ResumePage = () => {
 
     const timeout = setTimeout(() => {
       window.location.href = "/";
-    }, 1000);
+    }, 500);
 
     return () => clearTimeout(timeout);
   }, []);
